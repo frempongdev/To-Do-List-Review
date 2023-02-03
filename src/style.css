@@ -1,0 +1,117 @@
+body {
+  background-color: white;
+  margin: 15% 20%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.to-do-section {
+  box-shadow: 0 0 5px 2px rgb(196, 196, 196);
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1% 1% 1% 1.8%;
+  border-bottom: 0.2px black solid;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+.sync-btn {
+  border: none;
+  background: none;
+  padding: 0%;
+}
+
+.sync-img {
+  width: 60%;
+}
+
+.task-form {
+  display: flex;
+  justify-content: space-between;
+  padding: 2.5%;
+  border: none;
+  border-bottom: rgb(0, 0, 0) 1px solid;
+}
+
+#task-input-field {
+  font-size: 1rem;
+  font-style: italic;
+  border: none;
+  outline: none;
+  width: 80%;
+  padding: 1%;
+}
+
+::placeholder {
+  font-style: italic;
+  font-size: 1rem;
+}
+
+#hidden-task-submit {
+  display: none;
+}
+
+.task-display {
+  padding: 0% 0.05% 0% 1%;
+  border-bottom: rgb(0, 0, 0) 1px solid;
+}
+
+.task-list {
+  margin: 0%;
+  list-style: none;
+  padding: 0%;
+}
+
+.task-line {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  border-bottom: 1px gray solid;
+}
+
+.task-desc {
+  font-size: 1.3rem;
+  border: none;
+  outline: none;
+  width: 90%;
+  padding: 1%;
+}
+
+.checkbox {
+  margin-right: 2%;
+}
+
+.more-btn {
+  width: 5%;
+  margin: 3% 0%;
+}
+
+.delete-btn {
+  width: 5%;
+  margin: 3% 0%;
+}
+
+.clear-all {
+  font-size: 1.2rem;
+  padding: 3%;
+  width: 100%;
+}
+
+.hide {
+  display: unset;
+  display: none;
+}
+
+.show {
+  display: unset;
+  display: block;
+}
+
+.cross {
+  text-decoration: line-through;
+}
