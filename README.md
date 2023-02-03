@@ -180,7 +180,7 @@ If you like this project kindly support by suggesting changed by forking and pul
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank  everyone who inspired me to learn programming. Regards to the whole Microverse team, Peers, and family supporting. 
-<!-- <br>A massive Thank You to [Cindy Shin](https://www.behance.net/adagio07) who is the original designer of this [design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
